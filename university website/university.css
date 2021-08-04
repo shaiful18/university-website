@@ -1,0 +1,130 @@
+title{
+    color:black;
+}
+h1{
+   text-align: right;
+    height:50px;
+}
+nav{
+    
+    color:black;
+    text-align: left;
+    text-size:5px;
+    word-spacing:15px
+}
+ .entro{
+    display: flex;
+    background-color: green;
+    width:100%;
+text-align: left;
+}
+    
+#bd h1{
+    margin-left:30px ;
+    text-align: left;
+}
+Body{
+    Margin:0px;
+    Padding :0px;
+    }
+  .container{
+    background-color:rgb(63, 201, 63);
+    padding: 2rem;
+    margin: 2rem;
+    box-shadow: 0 0 25px #857a7a;
+    border-radius: .25rem;
+  }  
+.vc img{
+width:200px;
+height:200px;
+
+}
+.main{
+    display: flex;
+}
+.vc-profile p, span{
+    font-size:20px;
+}
+.vc-profile{
+margin-left:30px;
+}
+.vc-profile h1{
+    text-align: left;
+    font-size:25px;
+}
+    .card{
+     background-color:rgb(63, 201, 63);
+    padding: 2rem;
+    margin: 2rem;
+    box-shadow: 0 0 25px #857a7a;
+    border-radius: .25rem;
+    height:300px;
+   
+    }
+    .card{
+        text-align:left;
+      font-size: 20px;
+    }
+    .card h1{
+        text-align: left;
+    }
+    
+    
+       
+    
+    .iuk{
+        background-color:rgb(63, 201, 63);
+        padding: 2rem;
+    margin: 2rem;
+    box-shadow: 0 0 25px #857a7a;
+    border-radius: .25rem;
+    
+ 
+    }
+    .iuk h1{
+        text-align: left;
+        
+    }
+    .menu{
+   background-color: green;
+   height:40px;
+   margin: 15px;
+   padding: 15px;
+   text-align: center;
+   
+    }
+    .menu a{
+        color:white;
+        text-decoration: none;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+    .menu a: hover{
+        background-color:black;
+        border-radius:3px;
+        font-size:10px;
+
+    }
+    .facilities{
+     background-color:rgb(63, 201, 63);
+     padding: 2rem;
+    margin: 2rem;
+    box-shadow: 0 0 25px #857a7a;
+    border-radius: .25rem;
+    font-size: 20px;
+    
+    }
+    .facilities h1{
+        text-align: left;
+    }
+    .connect{
+        background-color:rgb(63, 201, 63);
+        padding: 2rem;
+       margin: 2rem;
+       box-shadow: 0 0 25px #857a7a;
+       border-radius: .25rem;
+       font-size: 20px;
+    }
+    .connect a{
+        color:blue;
+    }
